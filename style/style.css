@@ -20,3 +20,21 @@ body {
     font-size: 30px;
     font-family: 'bold Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.azul {
+    background-color: #d6f2fe;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 30px;
+}
+
+#mensagem {
+    font-size: 15px;
+    color: #3c6882;
+    font-family: 'Bold Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#outrasMensagens {
+    font-size: 15px;
+    color: #73787e;
+}
