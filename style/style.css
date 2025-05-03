@@ -42,6 +42,7 @@ body {
 #flex1 {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 #imagem {
@@ -95,4 +96,14 @@ body {
 a:link {
     color: white;
     text-decoration: none;
+}
+
+#voltar {
+    width: 40px;
+    height: 40px;
+}
+
+#fundo {
+    width: 350px;
+    height: 100px;
 }
