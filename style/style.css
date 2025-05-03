@@ -44,12 +44,12 @@ body {
     align-items: center;
 }
 
-#jessicaImagem {
+#imagem {
     width: 70px;
     height: 70px;
 }
 
-#jessica {
+#separacao {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -68,17 +68,27 @@ body {
     color: #818287;
 }
 
-#enviado {
+#entregue {
     width: 10px;
     height: 10px;
 }
 
 #funcionalidade {
-    display: flex;
-    justify-content: flex-end;
+    margin-left: auto;
 }
 
 #funcionalidade1 {
-    width: 50px;
-    height: 50px;
+    width: 34px;
+    height: 34px;
+}
+
+#camera {
+    width: 34px;
+    height: 34px;
+}
+
+#mapa {
+    width: 26px;
+    height: 26px;
+    margin: 0px;
 }
