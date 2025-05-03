@@ -45,6 +45,96 @@ body {
     justify-content: center;
 }
 
+#flex2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#flexSorriso {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/sorrisoTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#flexFogo {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/fogoTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#flexCoracao {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/coracaoTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#flexAnjo {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/anjoTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#flexLoucura {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/loucuraTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#flexPalhaco {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/palhacoTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+#flexOlhinho {
+    display: flex;
+    align-items: center;
+    background-image: url('../assets/imagens/olhinhoTransparente.png');
+    background-size: cover;
+    background-position: center;
+    padding: 3px;
+    width: 340px;
+    height: 60px;
+    border-radius: 15px;
+}
+
 #imagem {
     width: 70px;
     height: 70px;
